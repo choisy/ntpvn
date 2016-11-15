@@ -1,0 +1,9 @@
+Package: tbvn
+Type: Package
+Title: Vietnamese TB data from 2010 to 2015
+Version: 0.1.0
+Author: Marc Choisy
+Maintainer: Marc Choisy <marc.choisy@ird.fr>
+Description: Quarterly Vietnamese TB data by province from 2010 to 2015
+License: GPL-3
+LazyData: TRUE
