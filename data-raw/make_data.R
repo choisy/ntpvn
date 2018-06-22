@@ -106,5 +106,5 @@ row.names(tbvn) <- NULL
 tbvn %<>% mutate_all(funs(replace(., is.na(.), 0)))
 
 ## Saving to disk and cleaning -------------------------------------------------
-#use_data(tbvn, overwrite = TRUE)
-#rm(list = ls())
+use_data(tbvn, overwrite = TRUE)
+rm(list = ls())
