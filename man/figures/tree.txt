@@ -1,0 +1,14 @@
+ |-non-pulmonary (nptb)
+ |-pulmonary
+           |-AFB-
+           |    |-with extra-pulmonary symptoms (neg_afb)
+           |    |-without extra-pulmonary symptoms (neg_afb_nptb)
+	   |				
+           |-AFB+
+                |-new case (pos_afb_new)
+                |-relapse (pos_afb_relapse)
+                |-treatment failure (pos_afb_fail)
+                |-returned to treatment after interuption (pos_afb_retreatment)
+                |-other (pos_afb_other)
+
+

@@ -7,4 +7,4 @@ Maintainer: Marc Choisy <marc.choisy@ird.fr>
 Description: Quarterly Vietnamese TB data by province from 2010 to 2015
 License: GPL-3
 LazyData: TRUE
-RoxygenNote: 5.0.1
+RoxygenNote: 6.0.1
