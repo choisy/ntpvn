@@ -3,7 +3,7 @@
            |-AFB-
            |    |-with extra-pulmonary symptoms (neg_afb)
            |    |-without extra-pulmonary symptoms (neg_afb_nptb)
-	   |				
+	         |
            |-AFB+
                 |-new case (pos_afb_new)
                 |-relapse (pos_afb_relapse)
