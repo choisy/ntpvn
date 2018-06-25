@@ -27,5 +27,4 @@
 #'    \item \code{pos_afb_other}: AFB-positive corresponding to other cases that the 4 listed above
 #' }
 #' @source National TB Programme of Vietnam.
-#' @export
 "tbvn"
